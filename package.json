@@ -9,6 +9,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {

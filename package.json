@@ -1,12 +1,12 @@
 {
-  "name": "SSV_Contracts",
+  "name": "Contracts Management",
   "version": "1.0.0",
-  "description": "",
+  "description": "It is a DAPP",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "dev": "node server.js",
-    "start": "npm start"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",

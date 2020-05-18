@@ -1,16 +1,12 @@
 {
-  "name": "ContractsManagement",
+  "name": "SSV_Contracts",
   "version": "1.0.0",
-  "description": "It is a DAPP",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "dev": "node server.js",
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": ">=10.0.0",
-    "npm": ">=6.0.0"
+    "build": "nexe server.js"
   },
   "author": "",
   "license": "ISC",
@@ -23,12 +19,17 @@
     "next": "^4.1.4",
     "next-routes": "^1.4.2",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.0.0",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.88.2",
     "solc": "^0.4.25",
     "truffle-hdwallet-provider": "0.0.3",
-    "web3": "^1.0.0-beta.26"
+    "web3": "^1.0.0-beta.26",
+    "web3-utils": "^1.2.7"
+  },
+  "devDependencies": {
+    "nexe": "^3.3.2"
   }
 }

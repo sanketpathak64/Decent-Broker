@@ -1,2 +1,2 @@
-# Contract Management
-    *Ethereum based project used to manage agreements,contracts 
+# Decent Broker
+   #### Decent Broker is a DAPP based on the ethereum blockcchain. It can be used as an alternative to the existing approach. Here the property owner creates a Agreement on DAPP by providing necessary details. The smartcontract has been written in such a way that both parties can communicate with each other when both parties are good on terms a contract is created and stored on blockchain.the entire process is transparent and the transaction happens between the the two clients without any intermediaries. 
